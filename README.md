@@ -11,43 +11,42 @@
 
 ## 🧠 About Me
 
-Hi, I'm Charishma — a builder at heart, an athlete by spirit, and a lifelong learner.
+Hi, I’m Charishma — a passionate software engineer focused on building clean, scalable digital products with real-world impact.
 
-My journey into tech was fueled by the same discipline and energy I brought to the track field. As an athlete, I learned the value of consistency, focus, and pushing limits — lessons I now channel into designing clean, purposeful, and impactful digital products.
+Currently delivering features for a MERN stack supply chain project at University of Cincinnati’s IT Solution Center and expanding expertise in FastAPI, Python, and OpenAI integrations.
 
-Currently, I'm working on a **MERN stack supply chain project for Macy’s** at the **University of Cincinnati's IT Solution Center**, where I’m building scalable features, refining user flows, and contributing to real-world enterprise systems.
+My projects showcase full-stack development (React, Node.js, FastAPI), automation (CI/CD, cloud), and creative solutions powered by AI.
+Explore my featured work below for examples of problem-solving, collaboration, and continuous learning.
 
-- 🌱 I'm always exploring new tools across frontend, backend, and DevOps — from React Native and Firebase to CI/CD pipelines
-- 🧠 I enjoy working on projects that blend real-time systems, user empathy, and thoughtful architecture
-- 🏗️ Projects like PlayGround App let me combine my passion for community with technical creativity
-- 💬 I believe in clean code, continuous improvement, and collaboration that elevates everyone involved
-
-Let’s build something cool together!
-
+Let’s connect and build something impactful together!
 ---
 
 ### ⚒️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,azure,git,docker,jest,nodejs,firebase,mysql,mongodb,html,postman,redis" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,aws,git,docker,jest,nodejs,firebase,mysql,mongodb,redis,python,openai" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects
 
-- 📱 [**PlayGround App**](https://github.com/SaiHarshith-18/playground-firebase)                               
+- [**Code Review AI**](https://github.com/nadipaca/ai-code-review-assistant)                               
+  Production-grade platform that automates code review workflows using FastAPI, Python, OpenAI (GPT-4), and seamless GitHub integration.
+
+- [**Healthcare Multi-Agent System**](https://github.com/nadipaca/healthcare-multi-agent)  
+  Full-stack healthcare assistant with Google ADK orchestrating 4+ specialized agents for symptom checking, appointment scheduling, insurance verification, and feedback collection.
+  🔹 Multi-agent routing | 🔹 HITL safety flagging | 🔹 Real-time analytics dashboard | 🔹 Rate limiting | 🔹 React + FastAPI + SQLite
+
+- [**PlayGround App**](https://github.com/SaiHarshith-18/playground-firebase)                               
   React Native + Firebase powered social app enabling messaging, geolocation sharing, and gamified onboarding.  
   🔹 10+ screens | 🔹 Lazy loading | 🔹 Optimized image upload | 🔹 Tailwind + NativeWind
 
-- 🌐 [**Naruto Infinite List**](https://github.com/nadipaca/Naruto-Infinite-List)  
+- [**Naruto Infinite List**](https://github.com/nadipaca/Naruto-Infinite-List)  
   The app is built with modern frontend tooling and aims to be a concise, easy-to-read example of how to implement infinite scrolling, lazy loading, and efficient list rendering in a TypeScript React codebase.
 
-- 🛍️ [**Sentiment Analyzer**](https://github.com/charish37/spring-sentiment-analyzer)  
+- [**Sentiment Analyzer**](https://github.com/charish37/spring-sentiment-analyzer)  
 This repository provides a Spring-based backend that exposes an HTTP API to classify text sentiment (e.g., positive, negative, neutral) and return a confidence score.
-
-- 📊 [**DSA Tutorial**](https://github.com/charish37/DSA-tutorial-)  
-  JavaScript-based Data Structures & Algorithms practice notebook.
 
 ---
 
