@@ -82,7 +82,7 @@ Relevant Courses: Machine Learning, Mobile App Dev, Azure Data Engineering, Cybe
 
 ### 📈 GitHub Stats
 
-![Charishma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charish37&show_icons=true&theme=tokyonight)
+![Charishma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadipaca&show_icons=true&theme=tokyonight)
 
 ---
 
