@@ -38,7 +38,7 @@ Let’s connect and build something impactful together!
   Full-stack healthcare assistant with Google ADK orchestrating 4+ specialized agents for symptom checking, appointment scheduling, insurance verification, and feedback collection.
   🔹 Multi-agent routing | 🔹 HITL safety flagging | 🔹 Real-time analytics dashboard | 🔹 Rate limiting | 🔹 React + FastAPI + SQLite
 
-- [**PlayGround App**](https://github.com/SaiHarshith-18/playground-firebase)                               
+- [**PlayGround App**](https://github.com/nadipaca/playground-app)                               
   React Native + Firebase powered social app enabling messaging, geolocation sharing, and gamified onboarding.  
   🔹 10+ screens | 🔹 Lazy loading | 🔹 Optimized image upload | 🔹 Tailwind + NativeWind
 
