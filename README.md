@@ -51,13 +51,13 @@ This repository provides a Spring-based backend that exposes an HTTP API to clas
 
 ### 🏆 Experience Highlights
 
-- 💼 **Full Stack Developer** @ UC IT Center (2025–Present)  
+- 💼 **Full Stack Developer** @ UC IT Center (2024–Present)  
   Boosted throughput by 25% building high-performance Spring Boot microservices & React dashboards
 
 - 💼 **Mobile App Intern** @ ThoughtCloud (2024)  
   Built mobile-first flows using React Native & Firebase; improved user onboarding conversion by 25%
 
-- 💼 **Web & API Developer** @ US Bank via Cognizant (2020–2024)  
+- 💼 **Web & API Developer** @ US Bank via Cognizant (2019–2024)  
   Delivered microservices with Spring Boot + Kafka, containerized with Docker, and secured with JWT & OAuth2
 
 ---
