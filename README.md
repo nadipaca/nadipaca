@@ -1,15 +1,14 @@
 <div align="center">
 
-# 👋 Hi there, I'm Charishma Nadipalli!
-
-💻 Full-Stack Developer | ☁️ Cloud Enthusiast | 📱 Mobile App Innovator  
+# 👋 Hi there, I'm Charishma Nadipalli  
+💻 Full-Stack Developer [<small><a href="https://charishmanadipalli.site">Portfolio</a></small>] | ☁️ Cloud Enthusiast | 📱 Mobile App Innovator  
 🎓 MS IT @ University of Cincinnati | 🔍 Java • Spring Boot • Node • Express • React • Firebase
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me -- 
 
 Hi, I’m Charishma — a passionate software engineer focused on building clean, scalable digital products with real-world impact.
 
